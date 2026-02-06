@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 <br>I'm a student who is passionate about programming , competitive programming , and mathematics.<br><br>I enjoy solving problems and improving my logic through CP  <br>I love learning Data Structures and Algorithms  <br>Math is one of my favorite subjects  <br>I'm a Linux user (Arch + Hyprland) and I enjoy customizing my setup  <br>Interested in Cybersecurity and tech in general  <br><br>Currently, I'm focused on becoming better at coding, building projects, and growing step by step.<br><br><br>
 
 
